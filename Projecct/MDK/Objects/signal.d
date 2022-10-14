@@ -1,0 +1,13 @@
+.\objects\signal.o: ..\..\Rtt\src\signal.c
+.\objects\signal.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\signal.o: D:\keil_32\ARM\ARMCC\Bin\..\include\string.h
+.\objects\signal.o: ..\..\Rtt\include\rthw.h
+.\objects\signal.o: ..\..\Rtt\include\rtthread.h
+.\objects\signal.o: ..\..\Rtt\include\rtconfig.h
+.\objects\signal.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\signal.o: ..\..\Rtt\include\rtdebug.h
+.\objects\signal.o: ..\..\Rtt\include\rtdef.h
+.\objects\signal.o: ..\..\Rtt\include\rtservice.h
+.\objects\signal.o: ..\..\Rtt\include\rtm.h
+.\objects\signal.o: ..\..\Rtt\include\rtthread.h
+.\objects\signal.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h

@@ -1,0 +1,11 @@
+.\objects\components.o: ..\..\Rtt\src\components.c
+.\objects\components.o: ..\..\Rtt\include\rthw.h
+.\objects\components.o: ..\..\Rtt\include\rtthread.h
+.\objects\components.o: ..\..\Rtt\include\rtconfig.h
+.\objects\components.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\components.o: ..\..\Rtt\include\rtdebug.h
+.\objects\components.o: ..\..\Rtt\include\rtdef.h
+.\objects\components.o: ..\..\Rtt\include\rtservice.h
+.\objects\components.o: ..\..\Rtt\include\rtm.h
+.\objects\components.o: ..\..\Rtt\include\rtthread.h
+.\objects\components.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h

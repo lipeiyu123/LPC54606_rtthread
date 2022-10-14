@@ -1,0 +1,11 @@
+.\objects\mem.o: ..\..\Rtt\src\mem.c
+.\objects\mem.o: ..\..\Rtt\include\rthw.h
+.\objects\mem.o: ..\..\Rtt\include\rtthread.h
+.\objects\mem.o: ..\..\Rtt\include\rtconfig.h
+.\objects\mem.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\mem.o: ..\..\Rtt\include\rtdebug.h
+.\objects\mem.o: ..\..\Rtt\include\rtdef.h
+.\objects\mem.o: ..\..\Rtt\include\rtservice.h
+.\objects\mem.o: ..\..\Rtt\include\rtm.h
+.\objects\mem.o: ..\..\Rtt\include\rtthread.h
+.\objects\mem.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h

@@ -1,0 +1,11 @@
+.\objects\timer.o: ..\..\Rtt\src\timer.c
+.\objects\timer.o: ..\..\Rtt\include\rtthread.h
+.\objects\timer.o: ..\..\Rtt\include\rtconfig.h
+.\objects\timer.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\timer.o: ..\..\Rtt\include\rtdebug.h
+.\objects\timer.o: ..\..\Rtt\include\rtdef.h
+.\objects\timer.o: ..\..\Rtt\include\rtservice.h
+.\objects\timer.o: ..\..\Rtt\include\rtm.h
+.\objects\timer.o: ..\..\Rtt\include\rtthread.h
+.\objects\timer.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\timer.o: ..\..\Rtt\include\rthw.h

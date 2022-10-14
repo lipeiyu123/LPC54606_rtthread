@@ -1,0 +1,11 @@
+.\objects\ipc.o: ..\..\Rtt\src\ipc.c
+.\objects\ipc.o: ..\..\Rtt\include\rtthread.h
+.\objects\ipc.o: ..\..\Rtt\include\rtconfig.h
+.\objects\ipc.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\ipc.o: ..\..\Rtt\include\rtdebug.h
+.\objects\ipc.o: ..\..\Rtt\include\rtdef.h
+.\objects\ipc.o: ..\..\Rtt\include\rtservice.h
+.\objects\ipc.o: ..\..\Rtt\include\rtm.h
+.\objects\ipc.o: ..\..\Rtt\include\rtthread.h
+.\objects\ipc.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ipc.o: ..\..\Rtt\include\rthw.h

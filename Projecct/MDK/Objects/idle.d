@@ -1,0 +1,11 @@
+.\objects\idle.o: ..\..\Rtt\src\idle.c
+.\objects\idle.o: ..\..\Rtt\include\rthw.h
+.\objects\idle.o: ..\..\Rtt\include\rtthread.h
+.\objects\idle.o: ..\..\Rtt\include\rtconfig.h
+.\objects\idle.o: ..\..\Rtt\include\RTE_Components.h
+.\objects\idle.o: ..\..\Rtt\include\rtdebug.h
+.\objects\idle.o: ..\..\Rtt\include\rtdef.h
+.\objects\idle.o: ..\..\Rtt\include\rtservice.h
+.\objects\idle.o: ..\..\Rtt\include\rtm.h
+.\objects\idle.o: ..\..\Rtt\include\rtthread.h
+.\objects\idle.o: D:\keil_32\ARM\ARMCC\Bin\..\include\stdarg.h
